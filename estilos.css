@@ -1,0 +1,10 @@
+body{
+    background: url(../imagenes/descarga.png);
+    text-align: center;
+}
+img{
+    border-radius: 70px;
+}  
+p{
+    font-size: 20px;
+}
